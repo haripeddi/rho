@@ -1,0 +1,526 @@
+{
+    "users": [
+      {
+        "userId": "U001",
+        "name": "Aarav Reddy",
+        "age": 19,
+        "ageGroup": "18-24",
+        "gender": "Male",
+        "heightCm": 176,
+        "weightKg": 64,
+        "bmi": 20.7,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Urban",
+          "city": "Bengaluru",
+          "district": "Bengaluru Urban",
+          "state": "Karnataka",
+          "pincode": "560034",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [],
+        "fitnessPreferences": [
+          "Weight Training",
+          "Calisthenics",
+          "Cricket"
+        ],
+        "foodPreferences": {
+          "dietType": "Non-Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "South Indian",
+            "Continental"
+          ],
+          "restrictions": []
+        },
+        "typeOfWork": "College Student",
+        "maxWorkoutTimeMinutes": 90,
+        "workTimings": {
+          "start": "09:00",
+          "end": "16:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U002",
+        "name": "Sneha Kulkarni",
+        "age": 27,
+        "ageGroup": "25-34",
+        "gender": "Female",
+        "heightCm": 160,
+        "weightKg": 55,
+        "bmi": 21.5,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Urban",
+          "city": "Pune",
+          "district": "Pune",
+          "state": "Maharashtra",
+          "pincode": "411057",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Asthma",
+          "PCOS"
+        ],
+        "fitnessPreferences": [
+          "Yoga",
+          "Zumba",
+          "Cycling"
+        ],
+        "foodPreferences": {
+          "dietType": "Vegetarian",
+          "allergies": [
+            "Peanuts"
+          ],
+          "cuisinePreferences": [
+            "Maharashtrian",
+            "North Indian"
+          ],
+          "restrictions": [
+            "Low Refined Sugar"
+          ]
+        },
+        "typeOfWork": "Software Engineer (Hybrid, Sedentary)",
+        "maxWorkoutTimeMinutes": 45,
+        "workTimings": {
+          "start": "10:00",
+          "end": "19:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U003",
+        "name": "Ramesh Yadav",
+        "age": 34,
+        "ageGroup": "25-34",
+        "gender": "Male",
+        "heightCm": 168,
+        "weightKg": 61,
+        "bmi": 21.6,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Rural",
+          "village": "Dharnai",
+          "district": "Jehanabad",
+          "state": "Bihar",
+          "pincode": "804408",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Lower Back Pain"
+        ],
+        "fitnessPreferences": [
+          "Walking",
+          "Stretching",
+          "Kabaddi"
+        ],
+        "foodPreferences": {
+          "dietType": "Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "Bihari"
+          ],
+          "restrictions": []
+        },
+        "typeOfWork": "Farmer (Physically Intensive)",
+        "maxWorkoutTimeMinutes": 20,
+        "workTimings": {
+          "start": "05:30",
+          "end": "13:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          "shift": "Early Morning"
+        }
+      },
+      {
+        "userId": "U004",
+        "name": "Karthik Iyer",
+        "age": 31,
+        "ageGroup": "25-34",
+        "gender": "Male",
+        "heightCm": 172,
+        "weightKg": 84,
+        "bmi": 28.4,
+        "bmiCategory": "Overweight",
+        "location": {
+          "areaType": "Urban",
+          "city": "Hyderabad",
+          "district": "Hyderabad",
+          "state": "Telangana",
+          "pincode": "500081",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Pre-diabetes",
+          "Fatty Liver (Grade 1)"
+        ],
+        "fitnessPreferences": [
+          "Swimming",
+          "Brisk Walking",
+          "Core Strengthening"
+        ],
+        "foodPreferences": {
+          "dietType": "Eggetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "South Indian"
+          ],
+          "restrictions": [
+            "Low Sugar",
+            "Low Fat"
+          ]
+        },
+        "typeOfWork": "Customer Support Executive (Night Shift)",
+        "maxWorkoutTimeMinutes": 30,
+        "workTimings": {
+          "start": "21:00",
+          "end": "06:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ],
+          "shift": "Night"
+        }
+      },
+      {
+        "userId": "U005",
+        "name": "Lakshmi Devi",
+        "age": 41,
+        "ageGroup": "35-44",
+        "gender": "Female",
+        "heightCm": 152,
+        "weightKg": 47,
+        "bmi": 20.3,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Rural",
+          "village": "Kuppam",
+          "district": "Chittoor",
+          "state": "Andhra Pradesh",
+          "pincode": "517425",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Iron-Deficiency Anaemia"
+        ],
+        "fitnessPreferences": [
+          "Walking",
+          "Light Yoga"
+        ],
+        "foodPreferences": {
+          "dietType": "Non-Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "Andhra"
+          ],
+          "restrictions": [
+            "Iron Rich"
+          ]
+        },
+        "typeOfWork": "Anganwadi Worker",
+        "maxWorkoutTimeMinutes": 20,
+        "workTimings": {
+          "start": "08:00",
+          "end": "14:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U006",
+        "name": "Imran Sheikh",
+        "age": 43,
+        "ageGroup": "35-44",
+        "gender": "Male",
+        "heightCm": 170,
+        "weightKg": 88,
+        "bmi": 30.4,
+        "bmiCategory": "Obese",
+        "location": {
+          "areaType": "Urban",
+          "city": "Mumbai",
+          "district": "Mumbai Suburban",
+          "state": "Maharashtra",
+          "pincode": "400050",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Hypertension",
+          "High Cholesterol"
+        ],
+        "fitnessPreferences": [
+          "Brisk Walking",
+          "Elliptical",
+          "Light Strength Training"
+        ],
+        "foodPreferences": {
+          "dietType": "Halal Non-Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "Mughlai",
+            "Konkani"
+          ],
+          "restrictions": [
+            "Low Sodium",
+            "Low Fat"
+          ]
+        },
+        "typeOfWork": "Sales Manager (Frequent Travel)",
+        "maxWorkoutTimeMinutes": 40,
+        "workTimings": {
+          "start": "09:30",
+          "end": "19:30",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U007",
+        "name": "Gurpreet Kaur",
+        "age": 49,
+        "ageGroup": "45-54",
+        "gender": "Female",
+        "heightCm": 158,
+        "weightKg": 72,
+        "bmi": 28.8,
+        "bmiCategory": "Overweight",
+        "location": {
+          "areaType": "Semi-Urban",
+          "city": "Bathinda",
+          "district": "Bathinda",
+          "state": "Punjab",
+          "pincode": "151001",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Type 2 Diabetes",
+          "Knee Osteoarthritis"
+        ],
+        "fitnessPreferences": [
+          "Chair Yoga",
+          "Stationary Cycling",
+          "Walking"
+        ],
+        "foodPreferences": {
+          "dietType": "Vegetarian",
+          "allergies": [
+            "Lactose"
+          ],
+          "cuisinePreferences": [
+            "Punjabi"
+          ],
+          "restrictions": [
+            "Low Glycemic"
+          ]
+        },
+        "typeOfWork": "Government School Teacher",
+        "maxWorkoutTimeMinutes": 35,
+        "workTimings": {
+          "start": "08:00",
+          "end": "14:30",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U008",
+        "name": "Priya Banerjee",
+        "age": 29,
+        "ageGroup": "25-34",
+        "gender": "Non-binary",
+        "heightCm": 163,
+        "weightKg": 58,
+        "bmi": 21.8,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Urban",
+          "city": "Kolkata",
+          "district": "Kolkata",
+          "state": "West Bengal",
+          "pincode": "700019",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Anxiety",
+          "Migraine"
+        ],
+        "fitnessPreferences": [
+          "Running",
+          "Dance",
+          "Meditation"
+        ],
+        "foodPreferences": {
+          "dietType": "Pescatarian",
+          "allergies": [
+            "Gluten"
+          ],
+          "cuisinePreferences": [
+            "Bengali"
+          ],
+          "restrictions": [
+            "Gluten-Free"
+          ]
+        },
+        "typeOfWork": "Freelance Graphic Designer (Flexible)",
+        "maxWorkoutTimeMinutes": 60,
+        "workTimings": {
+          "start": "11:00",
+          "end": "19:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Sat"
+          ],
+          "shift": "Flexible"
+        }
+      },
+      {
+        "userId": "U009",
+        "name": "Kamla Meena",
+        "age": 58,
+        "ageGroup": "55-64",
+        "gender": "Female",
+        "heightCm": 150,
+        "weightKg": 52,
+        "bmi": 23.1,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Rural",
+          "village": "Piplantri",
+          "district": "Rajsamand",
+          "state": "Rajasthan",
+          "pincode": "313324",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Osteoporosis",
+          "Cataract (Early Stage)"
+        ],
+        "fitnessPreferences": [
+          "Walking",
+          "Light Stretching"
+        ],
+        "foodPreferences": {
+          "dietType": "Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "Rajasthani"
+          ],
+          "restrictions": [
+            "High Calcium"
+          ]
+        },
+        "typeOfWork": "Self-Help Group Member (Handicrafts)",
+        "maxWorkoutTimeMinutes": 25,
+        "workTimings": {
+          "start": "10:00",
+          "end": "16:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat"
+          ],
+          "shift": "Day"
+        }
+      },
+      {
+        "userId": "U010",
+        "name": "Joseph Varghese",
+        "age": 70,
+        "ageGroup": "65+",
+        "gender": "Male",
+        "heightCm": 167,
+        "weightKg": 69,
+        "bmi": 24.7,
+        "bmiCategory": "Normal",
+        "location": {
+          "areaType": "Semi-Urban",
+          "city": "Thrissur",
+          "district": "Thrissur",
+          "state": "Kerala",
+          "pincode": "680001",
+          "timezone": "Asia/Kolkata"
+        },
+        "medicalConditions": [
+          "Coronary Artery Disease",
+          "Mild Hearing Loss"
+        ],
+        "fitnessPreferences": [
+          "Gentle Walking",
+          "Balance Exercises",
+          "Pranayama"
+        ],
+        "foodPreferences": {
+          "dietType": "Non-Vegetarian",
+          "allergies": [],
+          "cuisinePreferences": [
+            "Kerala"
+          ],
+          "restrictions": [
+            "Low Sodium",
+            "Heart Healthy"
+          ]
+        },
+        "typeOfWork": "Retired",
+        "maxWorkoutTimeMinutes": 20,
+        "workTimings": {
+          "start": null,
+          "end": null,
+          "days": [],
+          "shift": "Not Applicable"
+        }
+      }
+    ]
+  }
